@@ -3,8 +3,7 @@ kind: Component
 metadata:
   name: 1C_Technolog  
   description: Технологи и качество
-  tags:
-    - 1C
+  tags: -1C
 spec:
   type: 1С.subsystem
   configuration: 1C_Finance 
