@@ -1,14 +1,15 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
-metadata:
-  name: 1C_Technolog  
+metadata:  
+  name: 1C_Technolog    
   description: Технологи и качество
   tags:
-   - 1c
-  labels:
-    system: Retail      
+   - 1c  
+  annotations:
+    backstage.io/techdocs-ref: https://bookstack.int.vkusvill.ru/books/zadaniia-texnologa-magazinam/page/zadanie-texnologa-magazinam
 spec:
   type: 1С.subsystem
+  system: Retail
   configuration: 1C_Finance 
   lifecycle: production
   owner: user:Осиповский Виталий
