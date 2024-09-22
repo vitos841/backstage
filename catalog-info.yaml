@@ -4,8 +4,7 @@ metadata:
   name: 1C_Technolog  
   description: Технологи и качество
   tags:
-   - nodejs
-   - backend
+   - 1C   
   labels:
     system: Retail      
 spec:
