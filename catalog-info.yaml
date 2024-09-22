@@ -5,6 +5,8 @@ metadata:
   description: Технологи и качество
   tags: 
   - 1C
+    labels:
+      system: Retail      
 spec:
   type: 1С.subsystem
   configuration: 1C_Finance 
