@@ -9,11 +9,4 @@ spec:
   dependsOn:
     - component:1C.СтандартныеПодсистемы
 
-apiVersion: backstage.io/v1alpha1 
-kind: Component
-metadata:
-  name:1C.СтандартныеПодсистемы  
-spec:
-  type: 1С.subsystem
-  lifecycle: production
-  owner: user:Осиповский Виталий
+
