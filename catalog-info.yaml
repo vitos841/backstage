@@ -4,7 +4,7 @@ metadata:
   name: 1C_Technolog  
   description: Технологи и качество
   tags:
-   - System1C   
+   - 1c
   labels:
     system: Retail      
 spec:
