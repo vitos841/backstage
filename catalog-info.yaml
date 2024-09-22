@@ -4,9 +4,10 @@ metadata:
   name: 1C_Technolog  
   description: Технологи и качество
   tags:
-    - Подсистема 1С
+    - 1С
 spec:
   type: 1С.subsystem
+  configuration: 1C_Finance 
   lifecycle: production
   owner: user:Осиповский Виталий
   dependsOn:
