@@ -6,7 +6,7 @@ metadata:
   tags:
    - 1c  
   annotations:
-    backstage.io/techdocs-ref: https://bookstack.int.vkusvill.ru/books/zadaniia-texnologa-magazinam/page/zadanie-texnologa-magazinam
+    backstage.io/techdocs-ref: https://www.thoughtworks.com/insights/blog/agile-engineering-practices/backstage-developer-portal-que-las-organizaciones-necesitan-para-sus-desarrolladores
 spec:
   type: 1С.subsystem
   system: Retail
