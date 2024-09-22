@@ -1,7 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: 1C_Technolog
+  name: 1C_Technolog  
+  description: Технологи и качество
+  tags:
+    - Подсистема 1С
 spec:
   type: 1С.subsystem
   lifecycle: production
