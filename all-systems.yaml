@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: 1C-systems
+  description: Все системы 1С
+spec:
+  targets:
+    - ./systems/retail-system.yaml
+    - ./systems/finance-system.yaml
+    - ./systems/ufk-system.yaml
