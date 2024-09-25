@@ -8,5 +8,3 @@ metadata:
 spec:
   owner: user:Ившин Максим
   type: 1c
-  dependsOn: ['component:edo']
-  hasPart: ['component:edo']
