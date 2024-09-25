@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: 1CUFK
+  description: 1C UFK
+  tags:
+    - 1C
+spec:
+  owner: user:Тарасевич Роман
+  type: 1C

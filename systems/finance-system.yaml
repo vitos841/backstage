@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: 1CFinance
+  description: 1C Финансы
+  tags:
+    - 1C
+spec:
+  owner: user:Ившин Максим
+  type: 1C

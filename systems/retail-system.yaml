@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: 1CRetail
+  description: 1C Ритэйл
+  tags:
+    - 1C
+spec:
+  owner: user:Осиповский Виталий
+  type: 1C
