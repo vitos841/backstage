@@ -4,7 +4,7 @@ metadata:
   name: 1CFinance
   description: 1C Финансы
   tags:
-    - 1C
+    - 1c
 spec:
   owner: user:Ившин Максим
-  type: 1C
+  type: 1c
