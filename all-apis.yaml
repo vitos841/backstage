@@ -1,1 +1,8 @@
-
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: 1c-apis
+  description: A collection of 1C APIs
+spec:
+  targets:
+    - ./apis/EDO.yaml
