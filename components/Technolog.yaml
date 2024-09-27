@@ -18,5 +18,5 @@ spec:
   lifecycle: production
   owner: user:Тарасевич Роман
   consumesApis: 
-    - edo-api
+    - Edo-SendToEdo
     - EdoSbis-ResponsiblePersons
