@@ -7,3 +7,4 @@ spec:
   targets:
     - ./components/Technolog.yaml
     - ./components/EDO.yaml
+    - ./components/EdoSbis.yaml
