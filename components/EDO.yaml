@@ -19,6 +19,6 @@ spec:
   owner: user:Тарасевич Роман
   system: 1cfinance
   providesApis: 
-    - edo-api
+    - Edo.SendToEdo
 
   
