@@ -6,3 +6,4 @@ metadata:
 spec:
   targets:
     - ./apis/edo-api.yaml
+    - ./apis/EdoSbis-ResponsiblePersons.yaml
