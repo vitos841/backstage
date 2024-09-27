@@ -5,5 +5,5 @@ metadata:
   description: A collection of 1C APIs
 spec:
   targets:
-    - ./apis/edo-api.yaml
+    - ./apis/Edo-SendToEdo.yaml
     - ./apis/EdoSbis-ResponsiblePersons.yaml
