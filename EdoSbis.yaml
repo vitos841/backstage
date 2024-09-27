@@ -1,0 +1,22 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: edosbis
+  description: "Интеграция ЭДО. СБИС. Внутренний документооборот (почему разделено?)			"
+  tags:
+    - 1c
+    - data
+  links:
+    - url: https://example.com/user
+      title: Examples Users
+      icon: user
+  annotations:
+    backstage.io/source-template: template:default/springboot-template
+    backstage.io/linguist: 'https://github.com/backstage/backstage/tree/master/plugins/playlist'
+spec:
+  type: 1c
+  lifecycle: production
+  owner: user:Тарасевич Роман
+  system: 1cfinance
+  providesApis: 
+    - EdoSbis-ResponsiblePersons
