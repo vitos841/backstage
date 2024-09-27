@@ -16,3 +16,4 @@ spec:
   type: 1c-inner
   lifecycle: experimental
   owner: user:Осиповский Виталий  
+  definition: Hello
