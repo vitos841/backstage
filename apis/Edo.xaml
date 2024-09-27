@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: Edo.SendToEdo
+  description: Отправить в ЭДО
+  tags:
+    - 1c-inner    
+  links:
+    - url: https://github.com/swagger-api/swagger-petstore
+      title: GitHub Repo
+      icon: github
+    - url: https://github.com/swagger-api/swagger-petstore/blob/master/src/main/resources/openapi.yaml
+      title: API Spec
+      icon: code
+spec:
+  type: 1c-inner
+  lifecycle: experimental
+  owner: user:Осиповский Виталий  
+  definition: Hello
