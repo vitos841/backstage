@@ -17,5 +17,5 @@ spec:
   type: 1c
   lifecycle: production
   owner: user:Тарасевич Роман
-  dependsOn: ['api:edo-api']
+  consumesApi: ['api:edo-api']
   
