@@ -19,4 +19,4 @@ spec:
   owner: user:Тарасевич Роман
   consumesApis: 
     - edo-api
-  
+    - EdoSbis-ResponsiblePersons
