@@ -18,5 +18,6 @@ spec:
   lifecycle: production
   owner: user:Тарасевич Роман
   system: 1cfinance
+  providesApi: ['api:edo-api']
 
   
